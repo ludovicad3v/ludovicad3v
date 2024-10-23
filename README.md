@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 ✧ Junior Cloud & DevOps Engineer ✧
 ------------------------------------
 
-Hi! I'm Ludovica and I'm a 20 year old Jr Cloud & DevOps Engineer. I've started my Information Technology journey as a Java Developer, and I've always been driven by a strong passion for anything tech-related, especially Coding and Cybersecurity. I now work as a DevOps Engineer, and I have the opportunity to bring together all that I've learned (and that I'm still learning) in order to find and develop innovative and ideal solutions to ensure a secure & continuous development workflow.
+Hi! I'm Ludovica and I'm a 21 year old Jr Cloud & DevOps Engineer. I've started my Information Technology journey as a Java Developer, and I've always been driven by a strong passion for anything tech-related, especially Coding and Cybersecurity. I now work as a DevOps Engineer, and I have the opportunity to bring together all that I've learned (and that I'm still learning) in order to find and develop innovative and ideal solutions to ensure a secure & continuous development workflow.
 
 ### Technologies that I'm familiar with: 
 
